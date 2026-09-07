@@ -1,23 +1,26 @@
 # REA — suivi
 
+Repo : https://github.com/lnkhenri/rea  
+Issues : https://github.com/lnkhenri/rea/issues
+
 ## En cours
 
-- [x] Remplacer la feuille de route trop détaillée par une version générale
-- [x] Choix de la première étape : cadrage et suivi
-- [x] Valider la carte (4 espaces + 3 agents + frontière public/privé)
 - [x] Figer le cadrage dans `docs/cadrage/`
-- [ ] Trancher le suivi tickets : GitHub Issues vs Notion vs Obsidian
+- [x] Repo GitHub public + tickets d’évolution
+- [ ] Prochaine étape à ouvrir ensemble (profil / critères, ou autre)
 
-## Feuille de route (à valider)
+## Tickets
 
-1. Cadrage et suivi
-2. Profil et critères
-3. Collecte d’offres
-4. Interface
-5. Aide IA
-6. Suivi des candidatures
-7. Vitrine GitHub
+| Etape | Issue |
+|---|---|
+| 1. Cadrage et suivi | [#5](https://github.com/lnkhenri/rea/issues/5) (fermée) |
+| 2. Profil et critères | [#1](https://github.com/lnkhenri/rea/issues/1) |
+| 3. Collecte d’offres | [#6](https://github.com/lnkhenri/rea/issues/6) |
+| 4. Interface | [#2](https://github.com/lnkhenri/rea/issues/2) |
+| 5. Aide IA | [#4](https://github.com/lnkhenri/rea/issues/4) |
+| 6. Suivi des candidatures | [#3](https://github.com/lnkhenri/rea/issues/3) |
+| 7. Vitrine GitHub | [#7](https://github.com/lnkhenri/rea/issues/7) |
 
 ## Revue
 
-Plan initial trop précis (outils, stack, enchaînement d’implémentation). Recadré : étapes générales, définition conjointe à chaque palier, pas de code tant que l’étape n’est pas choisie.
+Cadrage figé. Suivi : markdown dans git, tickets GitHub, notes privées hors dépôt.
