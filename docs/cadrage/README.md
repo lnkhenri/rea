@@ -7,6 +7,8 @@ Ce dossier fige le **quoi** du projet. On y ajoute des notes au fur et à mesure
 - [espaces.md](espaces.md) — Candidat, Offres, Candidatures, Agents
 - [agents.md](agents.md) — missions des trois agents
 - [regles.md](regles.md) — public / privé, cadences, hors scope
+- [sources-profil.md](sources-profil.md) — où est déjà le profil (hors git)
+- [outils.md](outils.md) — build, sources d’offres, MCP
 
 ## Produit en une phrase
 

@@ -25,7 +25,7 @@ Candidat + critères → collecte → inbox d’offres → matching
 
 ## Contenu attendu
 
-**Candidat** — qui tu es et ce que tu veux (lieu, remote, contrat, salaire, exclusions, disponibilité).
+**Candidat** — qui tu es et ce que tu veux (lieu, remote, contrat, salaire, exclusions, disponibilité). Les fichiers existent déjà à côté du projet ; voir [sources-profil.md](sources-profil.md). On ne les recopie pas ici.
 
 **Offres** — recherches, offres trouvées, pourquoi ça colle ou non, ce qu’on écarte et pourquoi.
 

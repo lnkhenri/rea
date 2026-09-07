@@ -7,7 +7,9 @@ Issues : https://github.com/lnkhenri/rea/issues
 
 - [x] Figer le cadrage dans `docs/cadrage/`
 - [x] Repo GitHub public + tickets d’évolution
-- [ ] Prochaine étape à ouvrir ensemble (profil / critères, ou autre)
+- [x] Profil : sources existantes notées, pas de réécriture maintenant
+- [x] Cadrage outils + MCP (`docs/cadrage/outils.md`)
+- [ ] Suite : ouvrir la collecte (France Travail) ou autre étape, ensemble
 
 ## Tickets
 
